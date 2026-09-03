@@ -1,0 +1,82 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Galería de Memes — Agents</title>
+  <style>
+    :root{--bg:#000;--card-bg:#0b0b0b;--text:#f5f5f5;--accent:#ffcc00}
+    html,body{height:100%;margin:0}
+    body{background:var(--bg);color:var(--text);font-family:Inter, system-ui, -apple-system, "Segoe UI", Roboto, Arial;display:flex;flex-direction:column;min-height:100vh}
+    header{padding:28px 20px;text-align:center}
+    h1{margin:0;font-size:1.6rem;letter-spacing:0.6px}
+    p.lead{margin:8px 0 0;color:#bdbdbd}
+    main{flex:1;padding:20px;max-width:1100px;margin:0 auto;width:100%}
+    .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
+    .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.2));border-radius:10px;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,0.6);border:1px solid rgba(255,255,255,0.03)}
+    .imgwrap{position:relative;padding-top:177%;background:#111}
+    .imgwrap img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;display:block}
+    .caption{padding:10px 12px;font-weight:700;color:var(--text);background:transparent;text-align:center}
+    .caption small{display:block;margin-top:6px;font-weight:600;color:#cfcfcf}
+    footer{padding:14px 18px;text-align:center;font-size:0.9rem;color:#9a9a9a}
+    .note{margin-top:8px;color:#ff6b6b;font-weight:600}
+    .actions{margin-top:10px}
+    .btn{display:inline-block;padding:8px 12px;border-radius:8px;background:var(--accent);color:#111;font-weight:700;text-decoration:none}
+    @media (max-width:420px){h1{font-size:1.2rem}}
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Galería temática — Memes y fotos</h1>
+    <p class="lead">Fondo oscuro y estilo tipo galería. Las imágenes deben colocarse en agents/images/ como 1.jpg, 2.jpg, 3.jpg y 4.jpg o usar URLs públicas.</p>
+  </header>
+
+  <main>
+    <section class="grid">
+
+      <figure class="card">
+        <div class="imgwrap">
+          <img src="images/1.jpg" alt="Imagen 1">
+        </div>
+        <figcaption class="caption">Meme 1 <small>Imagen 1 — con permiso</small></figcaption>
+      </figure>
+
+      <figure class="card">
+        <div class="imgwrap">
+          <img src="images/2.jpg" alt="Imagen 2">
+        </div>
+        <figcaption class="caption">Meme 2 <small>Imagen 2 — con permiso</small></figcaption>
+      </figure>
+
+      <figure class="card">
+        <div class="imgwrap">
+          <img src="images/3.jpg" alt="Imagen 3">
+        </div>
+        <figcaption class="caption">Meme 3 <small>Imagen 3 — con permiso</small></figcaption>
+      </figure>
+
+      <figure class="card">
+        <div class="imgwrap">
+          <img src="images/4.jpg" alt="Imagen 4">
+        </div>
+        <figcaption class="caption">Meme 4 <small>Imagen 4 — con permiso</small></figcaption>
+      </figure>
+
+    </section>
+
+    <div style="margin-top:18px;text-align:center;color:#bdbdbd">
+      <div>¿Cómo añadir las imágenes?</div>
+      <div class="actions">
+        <a class="btn" href="https://github.com/Marclh1/marclh1.github.io/tree/main/agents/images" target="_blank" rel="noopener">Abrir carpeta agents/images</a>
+      </div>
+      <div style="margin-top:10px;font-size:0.95rem;color:#cfcfcf">Opciones: sube los archivos 1.jpg–4.jpg a agents/images/ desde la interfaz de GitHub, o edita este HTML y usa URLs públicas en lugar de rutas locales.</div>
+    </div>
+
+  </main>
+
+  <footer>
+    <div>Página generada automáticamente — ruta /agents</div>
+    <div class="note">Recuerda: no publiques contenido ofensivo ni sin permiso. Tú confirmaste que tienes permiso para estas imágenes.</div>
+  </footer>
+</body>
+</html>
