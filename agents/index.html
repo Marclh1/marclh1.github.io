@@ -11,7 +11,7 @@
     header{padding:28px 20px;text-align:center}
     h1{margin:0;font-size:1.6rem;letter-spacing:0.6px}
     p.lead{margin:8px 0 0;color:#bdbdbd}
-    main{flex:1;padding:20px;max-width:1100px;margin:0 auto;width:100%}
+    main{flex:1;padding:20px;max-width:1200px;margin:0 auto;width:100%}
     .grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:18px}
     .card{background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(0,0,0,0.2));border-radius:10px;overflow:hidden;box-shadow:0 8px 30px rgba(0,0,0,0.6);border:1px solid rgba(255,255,255,0.03)}
     .imgwrap{position:relative;padding-top:177%;background:#111}
@@ -28,7 +28,7 @@
 <body>
   <header>
     <h1>Galería temática — Memes y fotos</h1>
-    <p class="lead">Fondo oscuro y estilo tipo galería. Las imágenes deben colocarse en agents/images/ como 1.jpg, 2.jpg, 3.jpg y 4.jpg o usar URLs públicas.</p>
+    <p class="lead">Fondo oscuro. Has proporcionado varias imágenes — las incrusté directamente desde las URLs que enviaste.</p>
   </header>
 
   <main>
@@ -36,47 +36,65 @@
 
       <figure class="card">
         <div class="imgwrap">
-          <img src="images/1.jpg" alt="Imagen 1">
+          <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuomZh6LKmSFsbzi-ss3FuEXsEx45-M2XzN0NoEarG6g&s=10" alt="Imagen 1">
         </div>
-        <figcaption class="caption">Meme 1 <small>Imagen 1 — con permiso</small></figcaption>
+        <figcaption class="caption">Imagen 1 <small>Proporcionada por el usuario</small></figcaption>
       </figure>
 
       <figure class="card">
         <div class="imgwrap">
-          <img src="images/2.jpg" alt="Imagen 2">
+          <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXFCoWXfRVvBesbVPobZU5t2XCFinPZyI4JEPW6ZTJLA&s=10" alt="Imagen 2">
         </div>
-        <figcaption class="caption">Meme 2 <small>Imagen 2 — con permiso</small></figcaption>
+        <figcaption class="caption">Imagen 2 <small>Proporcionada por el usuario</small></figcaption>
       </figure>
 
       <figure class="card">
         <div class="imgwrap">
-          <img src="images/3.jpg" alt="Imagen 3">
+          <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpG52mBWSZNOWeBqyTPZ_L7RpP8ozjTYYP4ofjuC1dAw&s=10" alt="Imagen 3">
         </div>
-        <figcaption class="caption">Meme 3 <small>Imagen 3 — con permiso</small></figcaption>
+        <figcaption class="caption">Imagen 3 <small>Proporcionada por el usuario</small></figcaption>
       </figure>
 
       <figure class="card">
         <div class="imgwrap">
-          <img src="images/4.jpg" alt="Imagen 4">
+          <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1ouwlPx5S88nEbf6teIVet5hauQ9l6vy90-PK4Eac7g&s=10" alt="Imagen 4">
         </div>
-        <figcaption class="caption">Meme 4 <small>Imagen 4 — con permiso</small></figcaption>
+        <figcaption class="caption">Imagen 4 <small>Proporcionada por el usuario</small></figcaption>
+      </figure>
+
+      <figure class="card">
+        <div class="imgwrap">
+          <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQs-gucRGrnjQeNNO4pds9LnYoleJXlt9pARNcrNcowxQ&s=10" alt="Imagen 5">
+        </div>
+        <figcaption class="caption">Imagen 5 <small>Proporcionada por el usuario</small></figcaption>
+      </figure>
+
+      <figure class="card">
+        <div class="imgwrap">
+          <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj9cQXK1N-XZVmJpUY5LwzcTuVyqpxGs2RUbuCejvrgw&s=10" alt="Imagen 6">
+        </div>
+        <figcaption class="caption">Imagen 6 <small>Proporcionada por el usuario</small></figcaption>
+      </figure>
+
+      <figure class="card">
+        <div class="imgwrap">
+          <img loading="lazy" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToWPtQRak5UyqfnlKkY43DwkuI18bg_01q-eoAtLAlRA&s=10" alt="Imagen 7">
+        </div>
+        <figcaption class="caption">Imagen 7 <small>Proporcionada por el usuario</small></figcaption>
       </figure>
 
     </section>
 
     <div style="margin-top:18px;text-align:center;color:#bdbdbd">
-      <div>¿Cómo añadir las imágenes?</div>
-      <div class="actions">
-        <a class="btn" href="https://github.com/Marclh1/marclh1.github.io/tree/main/agents/images" target="_blank" rel="noopener">Abrir carpeta agents/images</a>
-      </div>
-      <div style="margin-top:10px;font-size:0.95rem;color:#cfcfcf">Opciones: sube los archivos 1.jpg–4.jpg a agents/images/ desde la interfaz de GitHub, o edita este HTML y usa URLs públicas en lugar de rutas locales.</div>
+      <div>Estas imágenes se cargan desde URLs externas (hotlink). Si alguna no aparece, puedo descargarla y subirla al repo para mayor fiabilidad.</div>
+      <div style="margin-top:10px;font-size:0.95rem;color:#cfcfcf">Dime si quieres que añada leyendas personalizadas, reordene o active un "lightbox" para verlas en grande.</div>
     </div>
 
   </main>
 
   <footer>
-    <div>Página generada automáticamente — ruta /agents</div>
-    <div class="note">Recuerda: no publiques contenido ofensivo ni sin permiso. Tú confirmaste que tienes permiso para estas imágenes.</div>
+    <div>Página actualizada — ruta /agents</div>
+    <div class="note">Confirmaste que tienes permiso para publicar estas imágenes; si cambias de opinión, elimínalas del repo.</div>
   </footer>
 </body>
 </html>
