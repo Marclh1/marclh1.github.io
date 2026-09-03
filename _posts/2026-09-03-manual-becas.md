@@ -7,18 +7,30 @@ tags: [humor, becas, educación]
 
 Si pensabas que descifrar los textos sagrados o entender las leyes del Talmud era complicado, es porque nunca has intentado rellenar el formulario para pedir la Beca General de Pereira y Raúl.
 
-Todo empezó cuando Pereira, en un ataque de iluminación divina digno de una profecía, decidió que la mejor manera de financiar sus estudios no era trabajando, sino convirtiéndose en el rey de las ayudas estatales. Su plan era impecable: *"Raúl, hermano, si los antiguos mercaderes judíos eran conocidos por su legendaria astucia para la economía y los negocios, nosotros solo tenemos que aplicar esa misma sabiduría ancestral... pero para sacarle 500 euros al Gobierno"*.
+![Pereira como rey castor](/assets/images/pereira-castor-rey.jpg)
 
-Raúl, que en ese momento estaba concentrado viendo su video número 300 de TikTok con el fondo de pantalla dividido entre un tutorial de finanzas y el juego del monito saltando, levantó la mirada y dijo: *"Pereira, según este meme de TikTok con la musiquita de 'Symphony' y el delfín de colores, si declaras que tu unidad familiar consume exclusivamente lefas y aire, te dan el componente de residencia automáticamente"*.
+Todo empezó cuando Pereira, en un ataque de iluminación divina digno de una profecía, decidió que la mejor manera de financiar sus estudios no era trabajando, sino convirtiéndose en el rey de las becas. Su estrategia: ser tan carismático que hasta la administración pública se rendiría ante él.
+
+Raúl, que en ese momento estaba concentrado viendo su video número 300 de TikTok con el fondo de pantalla dividido entre un tutorial de finanzas y el juego del monito saltando, levantó la mirada y pensó: "Si Pereira puede soñar, yo también puedo".
+
+![Raúl explicando su estrategia de becas](/assets/images/raul-becas-javi-hoyos.jpg)
 
 A partir de ahí, la oficina de becas se convirtió en su propia batalla de memes.
 
-Pereira se presentó a la entrega de documentos con la vestimenta tradicional de un magnate del 100%-espíritu-emprendedor, mientras Raúl intentaba convencer a la funcionaria de que su falta de ingresos se debía a que todo su patrimonio estaba invertido en acciones emocionales.
+Pereira se presentó a la entrega de documentos con la vestimenta tradicional de un magnate del 100%-espíritu-emprendedor, mientras Raúl intentaba convencer a la funcionaria de que su falta de ingresos era en realidad "potencial de crecimiento financiero".
 
-— *Mire, señora* —explicaba Raúl muy serio—, *si en TikTok me dicen que con la mentalidad correcta el dinero atrae dinero, ¿por qué la ayuda me sale 'denegada por superar el umbral de renta'? ¡Si lo único que supera mi renta es la deuda que tengo con el mercadona!*
+— *Mire, señora* —explicaba Raúl muy serio—, *si en TikTok me dicen que con la mentalidad correcta el dinero atrae dinero, ¿por qué la ayuda me sale 'denegada por superar el umbral de renta'?*
+
+![Pepe celebrando con McDonald's](/assets/images/pepe-mcdonalds.jpg)
+
+La funcionaria parpadeó lentamente. Luego, sin decir nada, selló el papel.
+
+![El equipo reaccionando al resultado](/assets/images/becas-israel-team.jpg)
 
 Al final, tras tres semanas de papeleos, reclamaciones dignas de un debate teológico y rezar a todos los santos y patriarcas conocidos, la resolución llegó: **Aprobada**.
 
 ¿La cantidad? 60 euros y un PDF adjunto que ponía simplemente: *"Por favor, dejen de adjuntar memes de TikTok en la sección de 'Documentación Complementaria'"*.
 
 Pereira y Raúl celebraron la victoria como si hubieran conquistado la tierra prometida, gastándose la mitad de la beca en un kebab esa misma noche. 🎉
+
+**Moraleja:** A veces, la persistencia, el humor y un poco de desvarío administrativo son todo lo que necesitas para sobrevivir al sistema de becas español.
